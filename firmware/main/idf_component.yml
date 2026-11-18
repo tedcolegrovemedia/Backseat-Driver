@@ -1,0 +1,7 @@
+# ESP-IDF component manifest for the board firmware.
+dependencies:
+  idf: ">=5.5,<5.6"
+  lvgl/lvgl: "==9.5.0"               # must match sim/CMakeLists.txt LVGL_VERSION
+  espressif/esp_lcd_touch_gt911: "^1.1"
+# No esp_lvgl_port: board.c is a small direct glue (RGB panel + GT911 + CH422G),
+# so there is one less version to keep in step with LVGL 9.5.

@@ -1,0 +1,12 @@
+build/
+.cache/
+*.bmp
+.DS_Store
+firmware/build/
+firmware/managed_components/
+firmware/sdkconfig
+firmware/sdkconfig.old
+
+# Kept local, not published
+firmware/factory-backup/*.bin
+presentation/
