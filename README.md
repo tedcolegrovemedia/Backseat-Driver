@@ -5,7 +5,7 @@ A quiet headrest display for a five-year-old. It answers the three questions eve
 
 | Night | Day | Garage |
 |---|---|---|
-| ![Night theme](docs/screens/01_signed_direction.png) | ![Day theme](docs/screens/08_day_signed.png) | ![This Drive garage](docs/screens/19_garage_night.png) |
+| ![Night theme](docs/screens/01_signed_direction.png) | ![Day theme](docs/screens/08_day_signed.png) | ![This Drive garage](docs/screens/18_garage_night.png) |
 
 - **Road:** the road you're on, with its signed direction ("Route 22 West") or a compass heading when there isn't one.
 - **Car spotting:** one car to look for, by make and model (no photos, so it's a real spotting game). Tap **FOUND IT!** or **SKIP**.
